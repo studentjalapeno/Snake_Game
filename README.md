@@ -1,7 +1,7 @@
 
 # Snake_Game
- A snake game written in python using the Turtle Graphics module
- Used my knowledge of object-oriented programming as well as what i know about the turtle module to build the famous snake game!
+ A snake game written in python using the Turtle Graphics module.
+ I used my knowledge of object-oriented programming as well as what i know about the turtle module to build the famous snake game!
  
  
  
